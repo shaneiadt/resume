@@ -2123,6 +2123,14 @@ header .logo a {
 .services-content {
 	max-width: 1200px;
 }
+.services-content .view-article {
+	color:#287efe;
+	font-style: normal;
+	font-weight: 700;
+}
+.services-content .view-article:hover {
+	color:#203c66;
+}
 .services-list {
 	margin-top: 1.2rem;
 	text-align: center;
