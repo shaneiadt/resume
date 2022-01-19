@@ -1,0 +1,13 @@
+Hello,
+
+The name is Shane & anything web development related is my game :)
+
+I've always loved the internet from a young age & being creative is something I strive to do when I get the time.
+
+My experience spans back to the days of using Dreamweaver with no source control or build toolchain to the modern era of build servers and cool stuff like PWA's and Web Sockets.
+
+I'm currently living on the West coast of Ireland in the beautiful County Sligo and searching for my next challenge. I have a wife (or she has me) and a wonderful sprollie we love walking every day named Morgan.
+
+Looking forward to hearing from you.
+
+Shane
